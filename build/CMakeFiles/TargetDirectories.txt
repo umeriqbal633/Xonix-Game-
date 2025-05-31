@@ -1,0 +1,3 @@
+/home/umer/Downloads/16-Games-master/09 Xonix/build/CMakeFiles/xonix.dir
+/home/umer/Downloads/16-Games-master/09 Xonix/build/CMakeFiles/edit_cache.dir
+/home/umer/Downloads/16-Games-master/09 Xonix/build/CMakeFiles/rebuild_cache.dir
